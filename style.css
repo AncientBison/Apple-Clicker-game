@@ -29,6 +29,41 @@
 	width: 60%;
 	height: 60%
 }
+#tutorial {
+	font-size: 40px;
+	font-weight: bold;
+}
+#redtxt {
+	color:darkred;
+	margin: 10px;
+}
+#greentxt {
+	color: green;
+	margin: 10px;
+}
+#white {
+	background-color: white;
+	width: min-content;
+	border-radius: 10px;
+}
+#name {
+	border: 10px solid saddlebrown;
+	border-radius: 8px;
+	width: fit-content;
+	background-color: rgba(139, 69, 19, 0.5);
+}
+#loadapple {
+	height: 100%;
+	width:100%;
+}
+#html {
+	background-image: url("wood.png");
+}
+#start {
+	margin-top: 10px;
+	width: 60%;
+	height: 60%
+}
 .apple {
 	width: 20%;
 	height: 20%;

@@ -9,7 +9,7 @@ function tutorial() {
 	}
 }
 
-function click() {
+function appleclick() {
 	alert("Hi!");
 	money = 0;
 	mpc = 1;
